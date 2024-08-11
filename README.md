@@ -1,2 +1,2 @@
 # GameOfLife
-GameOfLife on C
+GameOfLife on C with minimal of libs used
